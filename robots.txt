@@ -1,0 +1,53 @@
+# robots.txt for MangaBuddy (mangabuddy1.com)
+# Last updated: 2026
+
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /wp-includes/
+Disallow: /cgi-bin/
+Disallow: /search?
+Disallow: /*?s=
+Disallow: /*?replytocom=
+Disallow: /*/feed/$
+Disallow: /trackback/
+
+# Allow major search engines full access
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+# Block known scrapers / AI crawlers (optional, uncomment to enable)
+# User-agent: GPTBot
+# Disallow: /
+# User-agent: CCBot
+# Disallow: /
+# User-agent: ClaudeBot
+# Disallow: /
+
+# Crawl rate (gentle)
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://mangabuddy1.com/sitemap.xml
+Sitemap: https://mangabuddy1.com/sitemap-pages.xml
+Sitemap: https://mangabuddy1.com/sitemap-manga-1.xml
+Sitemap: https://mangabuddy1.com/sitemap-manga-2.xml
+Sitemap: https://mangabuddy1.com/sitemap-manga-3.xml
+Sitemap: https://mangabuddy1.com/sitemap-genre.xml
+Sitemap: https://mangabuddy1.com/sitemap-author.xml
+
+# Host (preferred canonical host)
+Host: https://mangabuddy1.com

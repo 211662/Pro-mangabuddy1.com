@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sitemap index for MangaBuddy (mangabuddy1.com) -->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://mangabuddy1.com/sitemap-pages.xml</loc>
+    <lastmod>2026-05-03</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://mangabuddy1.com/sitemap-manga-1.xml</loc>
+    <lastmod>2026-05-03</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://mangabuddy1.com/sitemap-manga-2.xml</loc>
+    <lastmod>2026-05-03</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://mangabuddy1.com/sitemap-manga-3.xml</loc>
+    <lastmod>2026-05-03</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://mangabuddy1.com/sitemap-genre.xml</loc>
+    <lastmod>2026-05-03</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://mangabuddy1.com/sitemap-author.xml</loc>
+    <lastmod>2026-05-03</lastmod>
+  </sitemap>
+</sitemapindex>
